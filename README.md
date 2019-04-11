@@ -4,7 +4,7 @@ Google book search is a reach MERN app. This app uses the google books API to re
 
 Current Defects - 
 
-**The 'delete' button sometimes takes two clicks to work
+**The 'delete' button sometimes takes two clicks to work <br>
 **The 'save for later' button is currently showing on the saved list - and clicking it will save the book twice to your database. 
 
 To run this application locally, git clone this repository and then use NPM install to install all necessary packages in both the client and root directories. 
